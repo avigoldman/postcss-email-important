@@ -1,0 +1,19 @@
+{
+  "name": "postcss-email-important",
+  "version": "1.0.0",
+  "description": "Formats !important in an email-safe way",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avigoldman/postcss-email-important.git"
+  },
+  "author": "Avi Goldman <me@avigoldman.com> (http://avigoldman.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avigoldman/postcss-email-important/issues"
+  },
+  "homepage": "https://github.com/avigoldman/postcss-email-important#readme",
+  "dependencies": {
+    "postcss": "^6.0.11"
+  }
+}
